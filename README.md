@@ -1,2 +1,2 @@
 # odin-recipes
-This is a basic recipe website.
+This is a basic recipe website that attempts to demonstrate the basics of HTML such as elements and tags, the HTML boilerplate, working with text, lists, links and images, and Git commit messages.
